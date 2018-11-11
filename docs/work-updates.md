@@ -10,3 +10,6 @@ This is a running updates for haoshiyou project
  - @RenjieWeng
  
  - @KittyHe
+ 1.Discuss 小程序 wireframe and design patterns
+   Carousel pictures display or remain regular post style 
+ 
